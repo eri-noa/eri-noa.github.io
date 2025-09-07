@@ -279,7 +279,7 @@ header {
   transform: translate(-50%, -50%);
   width: 80%;
   aspect-ratio: 1/1;
-  background-image: url("yajirushi.png");
+  background-image: url(yajirushi.png);
   z-index: 2;
   background-size: cover;
 }
